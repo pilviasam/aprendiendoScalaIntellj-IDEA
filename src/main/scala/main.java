@@ -20,7 +20,7 @@ public class main extends Application {
     public void start(Stage primaryStage) {
         if (this.coche.equals(this.auto)) {
             System.out.print//.
-            ("hola que tal estas");
+            ("hola que tal estas, yo estoy bien");
         }
     }
 }
